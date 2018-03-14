@@ -9,7 +9,7 @@
 	<key>CFBundleIconFile</key>
 	<string>colcon</string>
 	<key>CFBundleIdentifier</key>
-	<string>fr.julienxx.oss.terminal-notifier</string>
+	<string>com.github.colcon.terminal-notifier</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
