@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
 	<key>CFBundleIconFile</key>
-	<string>Terminal</string>
+	<string>colcon</string>
 	<key>CFBundleIdentifier</key>
 	<string>fr.julienxx.oss.terminal-notifier</string>
 	<key>CFBundleInfoDictionaryVersion</key>
