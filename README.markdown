@@ -5,6 +5,7 @@ This is a fork of the [terminal-notifier](https://github.com/julienXX/terminal-n
 * removed the proprietary `Terminal.icns` file
 * added the `colcon` icon file `colcon.icns`
 * changed the bundle identifier to `com.github.colcon.terminal-notifier`
+* changed the bundle name to `colcon-terminal-notifier`
 
 
 # terminal-notifier

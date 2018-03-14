@@ -124,7 +124,7 @@
 			);
 			dependencies = (
 			);
-			name = "terminal-notifier";
+			name = "colcon-terminal-notifier";
 			productName = "Terminal Notifier";
 			productReference = 5199791415B1F92B003AFC57 /* terminal-notifier.app */;
 			productType = "com.apple.product-type.application";
