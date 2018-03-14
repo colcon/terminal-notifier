@@ -1,3 +1,10 @@
+This is a fork of the [terminal-notifier](https://github.com/julienXX/terminal-notifier) project with the following changes:
+
+* removed all files in the `assets` subdirectory
+* removed all files in the `Ruby` subdirectory
+* removed the proprietary `Terminal.icns` file
+
+
 # terminal-notifier
 
 [![GitHub release](https://img.shields.io/github/release/julienXX/terminal-notifier.svg)](https://github.com/julienXX/terminal-notifier/releases)
